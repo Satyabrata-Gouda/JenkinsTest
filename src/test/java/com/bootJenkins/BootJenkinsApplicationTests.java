@@ -16,6 +16,7 @@ class BootJenkinsApplicationTests {
 	void contextLoads() {
 		
 		logger.info("Inside Test");
+		logger.info("Inside-2 Test");
 	}
 
 }
