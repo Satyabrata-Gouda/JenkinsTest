@@ -13,7 +13,7 @@ class BootJenkinsApplicationTests {
 	Logger logger = LoggerFactory.getLogger(BootJenkinsApplicationTests.class);
 
 	@Test
-	void contextLoads() {
+	 contextLoads() {
 		
 		logger.info("Inside Test");
 		logger.info("Inside-2 Test");
